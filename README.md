@@ -10,5 +10,7 @@ FlightApp is a web application that allows users to create accounts, search for 
 <img width="940" alt="Screenshot 2023-11-03 at 8 07 09 PM" src="https://github.com/adarshgogineni/FlightApp/assets/32943978/b728f061-ba7a-4b64-b0be-7628d814a457">
 
 ## Database Schema: 
+<img width="543" alt="Screenshot 2023-11-03 at 8 07 42 PM" src="https://github.com/adarshgogineni/FlightApp/assets/32943978/6cb27d92-aaae-4211-9487-8e95916628d2">
+
 
 
